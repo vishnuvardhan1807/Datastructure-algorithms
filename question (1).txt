@@ -1,0 +1,28 @@
+
+
+Ask for input
+
+First name
+Last name
+Age
+Gender
+Phone
+email
+Address
+City
+State
+Pincode
+
+Submit/Cancel
+
+Submit --- Save to doc
+Cancel -- dont save end
+
+Every submit user --- generate unique id as DDMMYY(char'S')
+(Seq_Number-- three digit)
+
+Ex ID:  280721S081
+
+
+Save into file format ---- id3453,sri,ka,36,f,
+675768,mail@gm.com,yudsuytf,hyd,tel,599876
